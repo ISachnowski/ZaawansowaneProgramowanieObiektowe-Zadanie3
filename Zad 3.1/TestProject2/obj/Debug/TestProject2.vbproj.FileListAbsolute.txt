@@ -1,0 +1,6 @@
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\bin\Debug\TestProject2.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\bin\Debug\TestProject2.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\bin\Debug\TestProject2.xml
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\obj\Debug\TestProject2.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\obj\Debug\TestProject2.xml
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\TestProject2\obj\Debug\TestProject2.pdb

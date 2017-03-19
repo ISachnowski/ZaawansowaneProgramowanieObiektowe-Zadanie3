@@ -1,0 +1,7 @@
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\bin\Debug\Zad 3.1.exe
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\bin\Debug\Zad 3.1.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\bin\Debug\nunit.framework.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\bin\Debug\nunit.framework.xml
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\obj\x86\Debug\Zad 3.1.exe
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\obj\x86\Debug\Zad 3.1.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Zad 3.1\obj\x86\Debug\Zad 3.1.csprojResolveAssemblyReference.cache

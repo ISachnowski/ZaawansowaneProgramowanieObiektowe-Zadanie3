@@ -1,0 +1,9 @@
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\Program.Tests.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\Program.Tests.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\Zad 3.1.exe
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\Zad 3.1.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\obj\Debug\Program.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\obj\Debug\Program.Tests.dll
+C:\Users\Igor\documents\visual studio 2010\Projects\Zad 3.1\Program.Tests\obj\Debug\Program.Tests.pdb

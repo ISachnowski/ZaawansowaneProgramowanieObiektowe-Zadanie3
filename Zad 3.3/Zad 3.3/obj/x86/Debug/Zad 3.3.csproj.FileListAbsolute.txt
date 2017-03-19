@@ -1,0 +1,17 @@
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\bin\Debug\Zad 3.3.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\MainWindow.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\App.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3_MarkupCompile.cache
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.g.resources
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad_3._3.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.exe
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Zad 3.3.pdb
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Oceny.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Przedmioty.g.cs
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.baml
+c:\users\igor\documents\visual studio 2010\Projects\Zad 3.3\Zad 3.3\obj\x86\Debug\Obecnosci.g.cs
